@@ -2,6 +2,8 @@
 
 [Describe your project here]
 
+[(Ideas are still be composed here)](IDEAS.md)
+
 ## Team Member
 
 | Name   | Email              | GitHub |
