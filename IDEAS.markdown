@@ -10,6 +10,8 @@ References:
 [Template for Team Member]
 --------------------------
 
+*You can copy and write based on these outline or create it yourself.*
+
 ### [Idea Name. ex: Rating university/campus quality]
 
 + App Name:
