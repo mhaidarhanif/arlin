@@ -25,6 +25,8 @@ References:
 + Completion Time Estimation (ETA):
   + [In days or weeks]
 
+*Related to project requirements, analysis, design, architecture, components, interfaces, evaluation, presentation, and other characteristics; will follow after.*
+
 Ekky
 ----
 
@@ -44,7 +46,8 @@ Haidar
 + Main Functionality:
   + Sharing student's experience and opinions about their university life based on various factors.
 + Similars/Competitors:
-  + Rate My Professors, Rate My Teachers, MyEdu, Professor Performance
+  + Rate My Professors, Rate My Teachers, MyEdu, Professor Performance.
++
 + Completion Time Estimation (ETA):
   + About 30 days or 4 weeks.
 
