@@ -2,7 +2,7 @@
 
 [Describe your project here]
 
-[(Ideas are still be composed here)](IDEAS.md)
+[(Ideas are still be composed here)](IDEAS.markdown)
 
 ## Team Member
 
