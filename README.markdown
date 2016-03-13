@@ -54,3 +54,12 @@ For the most updated notes, see <https://github.com/gunadarma-academy/ASDE>. Thi
 + Presentation
   + Present the result to the class.
   + The winner will be chosen.
+
+[TIPS] Modern software development phase:  
+  + Initial idea, design sketches and quick prototypes
+  + Write some code, probably with free tools
+  + Find a server for hosting
+  + Do some testing
+  + Pick a price and build a little marketing around it
+  + Ship your product with a few clicks
+  + Iterate and ship it again
