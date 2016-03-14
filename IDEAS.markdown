@@ -38,7 +38,7 @@ Ekky
   + Whereto/NaikApa/Arahi
 + Target User:
   + User Persona/Definition: Jakartans who commute with public transporation daily.
-  + Problem Definition: A new, prospective job in Jakarta is sure a dream for everybody. But for those who don't know what to expect, getting around Jakarta can sometime be an overwhelming experience. Google Maps can sure be a good companion yet in contrary, the chaotic transportation layout  is *destroying* the premises, rendering Google Maps useless, if not efficient.  While there are lots of experienced people ready to help at all times, there is virtually not a single medium to connect both parties. 
+  + Problem Definition: A new, prospective job in Jakarta is sure a dream for everybody. But for those who don't know what to expect, getting around Jakarta can sometime be an overwhelming experience. Google Maps can sure be a good companion yet in contrary, the chaotic transportation layout  is *destroying* the premises, rendering Google Maps useless, if not efficient.  While there are lots of experienced people ready to help at all times, there is virtually not a single medium to connect both parties.
   + Side Note: basically a Stack Exchange equivalent for asking direction.
 + Main Functionality:
   + a platform where user can ask a specific transporation-related question with rating system for each answers.
@@ -80,7 +80,7 @@ Ruth
 + Main Functionality:
   + Make a list, sort, and search your book collections and where you put them
 + Similars/Competitors:
-  + My Library, iBookshelf 
+  + My Library, iBookshelf
 + Completion Time Estimation (ETA):
   + 4-5 weeks.
 
@@ -104,11 +104,3 @@ Patria
   + i-don't-know...
 + Completion Time Estimation (ETA):
   + 4-5 weeks.
-
-### [Other Idea]
-
-...
-
-
-...
-
