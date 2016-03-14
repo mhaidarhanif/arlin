@@ -66,6 +66,26 @@ Haidar
 + Completion Time Estimation (ETA):
   + About 30 days or 4 weeks.
 
+Ruth
+----
+
+### Book list organizer
+
++ App Name:
+  + BukuSaya
++ Target User:
+  + User Persona/Definition: Book collectors who want to organizing their collection.
+  + Problem Definition: When someone has a lot of book, the problem is how to organize those book. Sometimes people purchased duplicates of books they already owned, so they need to make a list of their collection. Other problem is, because the books is scattered all over the place (shelf #1, Shelf #2, box shelf, built-in shelf, etc) they often forget where they put a certain book.
+  + Side Note: Mobile application.
++ Main Functionality:
+  + Make a list, sort, and search your book collections and where you put them
++ Similars/Competitors:
+  + My Library, iBookshelf 
++ Completion Time Estimation (ETA):
+  + 4-5 weeks.
+
+
+
 ### [Other Idea]
 
 ...
@@ -75,7 +95,3 @@ Patria
 
 ...
 
-Ruth
-----
-
-...
