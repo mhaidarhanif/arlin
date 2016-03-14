@@ -84,14 +84,31 @@ Ruth
 + Completion Time Estimation (ETA):
   + 4-5 weeks.
 
+Patria
+------
 
+### Bike Rental
+
++ App Name:
+  + DNA Bike
++ Target User:
+  + User Persona/Definition: DNA Bike' owners & employees
+  + Problem Definition: DNA Owners is in a very far distance from their employees. But, DNA Owners want to know about the bike rental reports: which bikes that have been rented, how many customers rent their bike, etc. And also, DNA Employees want to know which bike that can be rented, etc.
+  + Side Note: Mobile applications (two version: for owners & for employees).
++ Main Functionality:
+  + (Employees) Rent A Bike
+  + (Employees & Owners) Check Bike Status
+  + (Employees) Confirm the Returned Bike
+  + (Owners) Rental Reports
++ Similars/Competitors:
+  + i-don't-know...
++ Completion Time Estimation (ETA):
+  + 4-5 weeks.
 
 ### [Other Idea]
 
 ...
 
-Patria
-------
 
 ...
 
