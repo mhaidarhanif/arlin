@@ -39,6 +39,7 @@ For the most updated notes, see <https://github.com/gunadarma-academy/ASDE>. Thi
 + Design Analysis
 + Evaluation
 + Software Quality
++ System Testing and Implementation
 + Project Presentation
 
 ### Development Process
