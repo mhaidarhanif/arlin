@@ -33,7 +33,7 @@ For the most updated notes, see <https://github.com/gunadarma-academy/ASDE>. Thi
 
 ### Materials
 
-+ Introduction
++ Introduction and Ideation
 + Project Management
 + Software Design
 + Design Analysis
