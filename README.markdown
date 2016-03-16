@@ -1,8 +1,8 @@
-# [Name Your Project Here]
+# Arlin by Michi
 
 [Describe your project here]
 
-[(Ideas are still be composed here)](IDEAS.markdown)
+[[Original ideas are here]](IDEAS.markdown)
 
 ## Team Member
 
