@@ -1,11 +1,11 @@
-Kind: Statement of Work
-Title: <Task Name>
-Author: <Full Name>
-Affiliation: <Team Name>
-Date: YYYY-MM-DD
-Version: x.y
+- Kind: Statement of Work
+- Title: <Task Name>
+- Author: <Full Name>
+- Affiliation: Michi
+- Date: 2016-MM-DD
+- Version: 0.y
 
-# SOW: [%Title]
+# SOW
 
 ## Overview
 
