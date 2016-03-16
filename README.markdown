@@ -21,9 +21,7 @@ See the [Project Management document](docs/project-management.markdown).
 
 ## User Documentation
 
-[Explanation about the project requirements, analysis, design, architecture, components, interfaces, evaluation, presentation, and other characteristics.]
-
-(who, why, how, what, where, when)
+See the [User Documentation here](docs/user-documentation.markdown).
 
 ## Technical Documentation
 
