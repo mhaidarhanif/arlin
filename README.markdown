@@ -25,7 +25,7 @@ See the [User Documentation here](docs/user-documentation.markdown).
 
 ## Technical Documentation
 
-[How to develop, build, and use it.]
+See the [Technical Documentation here](docs/technical-documentation.markdown).
 
 --------------------------------------------------
 
@@ -58,7 +58,7 @@ For the most updated notes, see <https://github.com/gunadarma-academy/ASDE>. Thi
   + Present the result to the class.
   + The winner will be chosen.
 
-[TIPS] Modern software development phase:  
+[TIPS] Modern software development phase:
   + Initial idea, design sketches and quick prototypes
   + Write some code, probably with free tools
   + Find a server for hosting
