@@ -25,7 +25,7 @@ See the [User Documentation here](docs/user-documentation.markdown).
 
 ## Technical Documentation
 
-[How to develop, build, and use it.]
+[How to develop, build, and not to use it.]
 
 --------------------------------------------------
 
