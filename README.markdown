@@ -6,12 +6,12 @@
 
 ## Team Member
 
-| Name   | Email              | GitHub |
-|--------|--------------------|--------|
+| Name                  | Email                 | GitHub |
+|-----------------------|-----------------------|--------|
 | Ekky Bayu Pramana     | ekkypramana@gmail.com | [@ekkyvalent](https://github.com/ekkyvalent)
-| Muhammad Haidar Hanif | me@mhaidarhanif.com | [@mhaidarh](https://github.com/mhaidarh)
-| Muhammad Patria       | muhpatr@gmail.com | [@muhpatr](https://github.com/muhpatr)
-| Ruth Theodora         | rutheodora@gmail.com | [@rutheodora](https://github.com/rutheodora)
+| Muhammad Haidar Hanif | me@mhaidarhanif.com   | [@mhaidarh](https://github.com/mhaidarh)
+| Muhammad Patria       | muhpatr@gmail.com     | [@muhpatr](https://github.com/muhpatr)
+| Ruth Theodora         | rutheodora@gmail.com  | [@rutheodora](https://github.com/rutheodora)
 
 --------------------------------------------------
 
