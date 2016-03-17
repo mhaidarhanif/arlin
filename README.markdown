@@ -1,6 +1,6 @@
 # Arlin by Michi
 
-[Describe your project here]
+User generated content for transportation...
 
 [[Original ideas are here]](IDEAS.markdown)
 
