@@ -17,7 +17,11 @@ The main users mostly are citizens who commute with public/private transporation
 
 --------------------------------------------------
 
-## Project Documentation
+## Extensive Product Documentation
+
+See the [Product document](docs/product.markdown).
+
+## Project Management Documentation
 
 See the [Project Management document](docs/project-management.markdown).
 
@@ -32,4 +36,3 @@ Related how to develop, build, and to use it. See the [Technical Documentation h
 ## General Notes
 
 See the [General Notes here](NOTES.markdown).
-
