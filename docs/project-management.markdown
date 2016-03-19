@@ -69,3 +69,17 @@ Ref: https://guides.github.com/introduction/flow
 ### Waffle Board
 
 Currently beside within GitHub; our project management, progress documentation, and kanban board are also available on Waffle.io (https://waffle.io/gunadarma-academy/asde-michi). It automatically put all of the GitHub issues –including all of the Statement of Work (SOW) in our case– in the appropriate columns.
+
+---
+
+### Design Sprint
+
+In addition, we havee to test our ideas and app to actual users outside of us. We might consider to use design sprint method.
+
+![Sprint Diagram](http://www.gv.com/sprint/img/sprint-diagram.png)
+
+> The sprint is a five-day process for answering critical business questions through design, prototyping, and testing ideas with customers. Developed at Google Ventures (now just GV), it’s a "greatest hits" of business strategy, innovation, behavior science, design thinking, and more — packaged into a battle-tested process that any team can use.
+
+> Working together with companies in a sprint, we shortcut the usual endless-debate cycle and compress months of time into a single week. Instead of waiting to launch a minimal product to understand if an idea is any good, teams get great data from a prototype. The sprint gives these companies a superpower: The ability to build and test nearly any idea in just 40 hours.
+
+Ref: http://www.gv.com/sprint
