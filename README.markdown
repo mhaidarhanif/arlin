@@ -39,3 +39,4 @@ Related how to develop, build, and to use it. See the [Technical Documentation h
 ## General Notes
 
 See the [General Notes here](NOTES.markdown).
+By the way, this project or product is originally created for [Advanced Software Development and Engineering (ASDE) course](https://github.com/gunadarma-academy/ASDE). You can expect to see all progress on this project's [GitHub repo](https://github.com/gunadarma-academy/asde-michi) and [Waffle board](https://waffle.io/gunadarma-academy/asde-michi).
