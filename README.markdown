@@ -7,7 +7,7 @@ Arlin (Arah lalu lintas) is a community-driven transportation helper for anyone 
 
 The main users mostly are citizens who commute with public/private transporation daily. We need this app because majority of traffic and roads condition in some cities can sometime be an overwhelming experience. Google Maps can sure be a good companion yet in contrary, the chaotic transportation layout is destroying the premises, rendering Google Maps useless, if not efficient. While there are lots of experienced people ready to help at all times, there is virtually not a single medium to connect both parties.
 
-[[Original ideas are written here]](IDEAS.markdown)
+[[Original ideas are written here]](docs/IDEAS.markdown)
 
 ## Team Member
 
@@ -38,5 +38,5 @@ Related how to develop, build, and to use it. See the [Technical Documentation h
 
 ## General Notes
 
-See the [General Notes here](NOTES.markdown).
+See the [General Notes here](docs/NOTES.markdown).
 By the way, this project or product is originally created for [Advanced Software Development and Engineering (ASDE) course](https://github.com/gunadarma-academy/ASDE). You can expect to see all progress on this project's [GitHub repo](https://github.com/gunadarma-academy/asde-michi) and [Waffle board](https://waffle.io/gunadarma-academy/asde-michi).
