@@ -1,28 +1,29 @@
 - Kind: Statement of Work
-- Title: <Task Name>
-- Author: <Full Name>
+- Title: <Work/Issue Name>
+- Author: <Your Full Name>
 - Affiliation: Michi
 - Date: 2016-MM-DD
-- Version: 0.y
+- Version: 0.x
 
 # SOW
 
 ## Overview
 
-<What is the objective/goal is of this work>
+[What is the objective/goal is of this work]
 
 ## Tasks
 
-<A list of the tasks to be performed — very high level, clearly written>
+[A list of the tasks to be performed. Very high level, clearly written]
 
 ## Deliverables
 
-<The deliverables of the project, so we know when it is complete>
+[The deliverables of the project, so we know when it is complete]
 
 ## Dependencies
 
-<SOWs that need to be done first for this to be viable>
+[SOWs that need to be done first for this to be viable]
 
 ## Assumptions
 
-<Any assumption made in why this work needs to be done>
+[Any assumption made in why this work needs to be done]
+
