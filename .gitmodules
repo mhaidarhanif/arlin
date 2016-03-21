@@ -1,3 +1,6 @@
 [submodule "slide"]
 	path = slide
 	url = git@github.com:gunadarma-academy/asde-michi-slide.git
+[submodule "web"]
+	path = web
+	url = git@github.com:gunadarma-academy/asde-michi-web.git
