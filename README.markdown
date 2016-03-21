@@ -18,6 +18,8 @@ The main users mostly are citizens who commute with public/private transporation
 | Muhammad Patria       | muhpatr@gmail.com     | [@muhpatr](https://github.com/muhpatr)
 | Ruth Theodora Lubis   | rutheodora@gmail.com  | [@rutheodora](https://github.com/rutheodora)
 
+See the detailed [Roles and Responsibilities here](docs/ROLES.markdown).
+
 --------------------------------------------------
 
 ## Extensive Product Documentation
