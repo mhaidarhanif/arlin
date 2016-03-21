@@ -116,3 +116,22 @@ Ref:
 - https://www.blinkist.com/page19/about-holacracy
 - https://www.blinkist.com/page19/holacracy-explained
 - https://www.blinkist.com/page19/blinkracy-ebook
+
+---
+
+### Continuous Integration (CI)
+
+**Continuous Integration (CI)** in software development and engineering is the practice of merging or integrating all developer working code and copies with a shared repository/mainline several times a day. Each check-in is then verified by an automated build, allowing teams to detect problems early. CI is very frequently accompanied by **Continuous Delivery/Deployment (CD)** and very often when people talk about CI they refer to both.
+
+CI relies on two main principles:
+
+1. Changes are merged to main source branch as often reasonably possible. The tasks are explicitly split up in such a way so that to avoid creating gigantic change sets.
+2. Each change is fully tested. Automated testing is the cornerstone of CI. In a team environment, and even on a personal project, it’s nearly impossible to insure that latest changes don’t break existing code without tests. Every time a change set is merged to master, CI runs entire suite to guarantee nothing was impacted negatively.
+
+Ref:  
+- https://strongloop.com/strongblog/node-js-travis-circle-codeship-compare
+- http://devops.com
+- https://travis-ci.org
+- https://circleci.com
+- https://codeship.com
+- http://wercker.com
