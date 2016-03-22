@@ -27,7 +27,7 @@ The main users mostly are citizens who commute with public/private transporation
 
 ## How to use this repo
 
-This repo is using `git submodules` for `app`, `slide`, and `web`. You are recommended to clone this repo with `git clone --recursive`. Or if you want, or have regular clonealready, or is experiencing a slow connection; please sync, init, and update the submodules like below.
+This repo is using `git submodules` for `app`, `slide`, and `web`. You are recommended to clone this repo with `git clone --recursive`. Or if you want, or have regular clone already, or is experiencing a slow connection; please sync, init, and update the submodules like the following.
 
 ```
 git submodule sync
