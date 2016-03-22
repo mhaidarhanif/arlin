@@ -4,3 +4,6 @@
 [submodule "web"]
 	path = web
 	url = git@github.com:gunadarma-academy/asde-michi-web.git
+[submodule "app"]
+	path = app
+	url = git@github.com:gunadarma-academy/asde-michi-app.git
