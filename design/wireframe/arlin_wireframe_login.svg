@@ -15,8 +15,8 @@
    id="svg4294"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="arlin_wireframe_landing.svg"
-   inkscape:export-filename="C:\Users\RUTH\Desktop\wireframe\arlin_wireframe_landing.png"
+   sodipodi:docname="arlin_wireframe_login.svg"
+   inkscape:export-filename="C:\Users\RUTH\Desktop\wireframe\arlin_wireframe_login.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -29,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="2.5954586"
-     inkscape:cy="75.426997"
+     inkscape:cx="42.253009"
+     inkscape:cy="96.689213"
      inkscape:document-units="px"
      inkscape:current-layer="g4477"
      showgrid="false"
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -61,8 +61,8 @@
        id="g4477"
        transform="translate(51.428571,40)">
       <g
-         id="g4175"
-         transform="matrix(0.99700112,0,0,0.9955091,0.29560268,4.0973567)">
+         id="g4361"
+         transform="matrix(0.99700138,0,0,0.99550887,0.29557706,4.0975665)">
         <rect
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
@@ -172,56 +172,64 @@
              x="80.743401"
              id="tspan4291-2-3-4"
              sodipodi:role="line">LOGIN</tspan></text>
-        <text
-           inkscape:export-ydpi="90"
-           inkscape:export-xdpi="90"
-           inkscape:export-filename="C:\Users\RUTH\Desktop\text4290.png"
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.3287859px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           x="18.733088"
-           y="906.89075"
-           id="text4439-9"
-           sodipodi:linespacing="125%"
-           transform="scale(1.0055829,0.99444809)"><tspan
-             sodipodi:role="line"
-             id="tspan4441-4"
-             x="18.733088"
-             y="906.89075"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#ff0000">Explanation about arlin</tspan></text>
-        <ellipse
-           inkscape:export-ydpi="90"
-           inkscape:export-xdpi="90"
-           inkscape:export-filename="C:\Users\RUTH\Desktop\text4290.png"
-           style="opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.25332379;stroke-opacity:1"
-           id="path3485"
-           cx="98.415764"
-           cy="947.16321"
-           rx="44.194172"
-           ry="6.0609155" />
-        <path
-           inkscape:export-ydpi="90"
-           inkscape:export-xdpi="90"
-           inkscape:export-filename="C:\Users\RUTH\Desktop\text4290.png"
-           style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m 136.12533,950.34424 22.68676,6.07199"
-           id="path3487"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cc" />
-        <text
-           inkscape:export-ydpi="90"
-           inkscape:export-xdpi="90"
-           inkscape:export-filename="C:\Users\RUTH\Desktop\text4290.png"
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           x="159.52998"
-           y="959.28503"
-           id="text4290"
-           sodipodi:linespacing="125%"><tspan
-             sodipodi:role="line"
-             id="tspan4292"
-             x="159.52998"
-             y="959.28503"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;fill:#ff0000">If Needed</tspan></text>
+        <g
+           transform="translate(307.58379,-101.01013)"
+           id="g4350">
+          <rect
+             style="opacity:0.48800001;fill:#333333;fill-opacity:1;stroke:none;stroke-width:2.09772277;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.25332379;stroke-opacity:1"
+             id="rect4205"
+             width="300"
+             height="200"
+             x="-359.01236"
+             y="913.37238" />
+          <rect
+             y="986.10803"
+             x="-280.79773"
+             height="74.302422"
+             width="143.57074"
+             id="rect4207"
+             style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.27964389;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.25332379;stroke-opacity:1" />
+          <g
+             id="g4226"
+             transform="translate(-398.59304,597.3282)">
+            <rect
+               y="416.46732"
+               x="175.62292"
+               height="10.927445"
+               width="77.347336"
+               id="rect4209"
+               style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.36000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.25332379;stroke-opacity:1" />
+            <text
+               sodipodi:linespacing="125%"
+               id="text4211"
+               y="423.90344"
+               x="125.25009"
+               style="font-style:normal;font-weight:normal;font-size:8.80543423px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               xml:space="preserve"><tspan
+                 y="423.90344"
+                 x="125.25009"
+                 id="tspan4213"
+                 sodipodi:role="line">username</tspan></text>
+          </g>
+          <rect
+             y="1040.7572"
+             x="-234.0974"
+             height="9.0040073"
+             width="50.170086"
+             id="rect4224"
+             style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.36000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.25332379;stroke-opacity:1" />
+          <text
+             sodipodi:linespacing="125%"
+             id="text4289-1-0"
+             y="1047.603"
+             x="-219.5903"
+             style="font-style:normal;font-weight:normal;font-size:6.44750834px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               y="1047.603"
+               x="-219.5903"
+               id="tspan4291-2-3"
+               sodipodi:role="line">LOGIN</tspan></text>
+        </g>
       </g>
     </g>
   </g>
