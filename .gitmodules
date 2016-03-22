@@ -1,9 +1,12 @@
-[submodule "slide"]
-	path = slide
-	url = git@github.com:gunadarma-academy/asde-michi-slide.git
-[submodule "web"]
-	path = web
-	url = git@github.com:gunadarma-academy/asde-michi-web.git
 [submodule "app"]
 	path = app
 	url = git@github.com:gunadarma-academy/asde-michi-app.git
+	branch = master
+[submodule "slide"]
+	path = slide
+	url = git@github.com:gunadarma-academy/asde-michi-slide.git
+	branch = master
+[submodule "web"]
+	path = web
+	url = git@github.com:gunadarma-academy/asde-michi-web.git
+	branch = master
