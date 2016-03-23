@@ -1,7 +1,7 @@
 Technical Documentation
 =======================
 
-How to develop, build, and use it? Refer to each particular development README in each application folder/repo, those are `app` and `web`.
+How to develop, build, and use it? Refer to each particular development README in each application folder/repo, those are in [`app`](../app/) and [`web`](../web/).
 
 Requirements
 ------------

@@ -51,7 +51,7 @@ See the [User Documentation here](docs/user-documentation.markdown).
 
 ## Technical Documentation
 
-Related how to develop, build, and to use it. See the [Technical Documentation here](docs/technical-documentation.markdown).
+See the [Technical Documentation here](docs/technical-documentation.markdown).
 
 ## General Notes
 
