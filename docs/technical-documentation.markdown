@@ -41,3 +41,43 @@ Requirements
 + DigitalOcean VPS
 + Cloudflare
 + Google Analytics
+
+*  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+Initial Data Schema
+-------------------
+
+### Users
+
+```
++ _id: UUID
++ createdDate: Date
++ updatedDate: Date
++ username: String
+```
+
+### Questions
+
+```
++ _id: UUID
++ createdDate: Date
++ updatedDate: Date
++ createdBy: Users._id
++ title: String
++ content: String
+```
+
+### Answers
+
+```
++ _id: UUID
++ answerTo: Quetions._id
++ createdDate: Date
++ updatedDate: Date
++ createdBy: Users._id
++ content: String
+```
+
+**Notes:**
+We're not using `timestamp` type because it's only for internal use of the database, not for application.
+
