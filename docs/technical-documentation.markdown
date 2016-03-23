@@ -1,7 +1,7 @@
 Technical Documentation
 =======================
 
-How to develop, build, and use it? Refer to each particular development README in each application folder/repo, those are in [`app`](../app/) and [`web`](../web/).
+How to develop, build, and use it? Refer to each particular development README in each application folder/repo, those are in [`app`](https://github.com/gunadarma-academy/asde-michi-app) and [`web`](https://github.com/gunadarma-academy/asde-michi-web).
 
 Requirements
 ------------
