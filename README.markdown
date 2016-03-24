@@ -1,4 +1,4 @@
-# Arlin by Michi
+# ![Arlin by Michi](design/brand/arlin_logo_color.svg)
 
 [![Join the chat at https://gitter.im/gunadarma-academy/asde-michi](https://badges.gitter.im/gunadarma-academy/asde-michi.svg)](https://gitter.im/gunadarma-academy/asde-michi?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Works in Ready](https://badge.waffle.io/gunadarma-academy/asde-michi.svg?label=ready&title=Ready)](http://waffle.io/gunadarma-academy/asde-michi)
