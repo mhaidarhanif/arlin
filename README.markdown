@@ -28,7 +28,7 @@ The main users mostly are citizens who commute with public/private transporation
 
 ## How to use this repo
 
-This repo is using `git submodules` for `app`, `slide`, and `web`. You are recommended to clone this repo with `git clone --recursive`. Or if you want, or have regular clone already, or is experiencing a slow connection; please sync, init, and update the submodules like the following.
+This repo is using `git submodules` for `app`, `slide`, and `web`. You are recommended to clone this repo with `git clone --recursive`. Or if you want, or have regular clone already, or is experiencing a slow connection; please sync, init, and update the submodules like the following. Please keep in mind that you should not modify or work in the synced submodules, but work in each single repo itself.
 
 ```
 git submodule sync
@@ -41,10 +41,12 @@ git submodule update --recursive
 ## Extensive Product Documentation
 
 See the [Product document](docs/product.markdown).
+In the first time, we're presenting the ideas with [our `slide` here](https://github.com/gunadarma-academy/asde-michi-slide).
 
 ## Project Management Documentation
 
 See the [Project Management document](docs/project-management.markdown).
+We're mainly using [GitHub Issues](https://github.com/gunadarma-academy/asde-michi/issues) and [integrate it to Waffle.io board](https://waffle.io/gunadarma-academy/asde-michi) to track our work progress.
 
 ## User Documentation
 
@@ -53,6 +55,7 @@ See the [User Documentation here](docs/user-documentation.markdown).
 ## Technical Documentation
 
 See the [Technical Documentation here](docs/technical-documentation.markdown).
+We're separating the `web` mockup and `app` repo for better development control. [See the web mockup here](https://github.com/gunadarma-academy/asde-michi-web) or [see the application repo here](https://github.com/gunadarma-academy/asde-michi-app).
 
 ## General Notes
 
