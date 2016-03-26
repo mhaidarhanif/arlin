@@ -8,76 +8,49 @@ Requirements
 
 ### Development Tools
 
-+ Modern code editor such as Vim, Atom, Sublime, WebStorm
 + Terminal and shell (bash/zsh)
++ Modern code editor such as Vim, Atom, Sublime, WebStorm
 + Modern web browser (Google Chrome or Firefox)
 
 ### Design Tools
 
-+ Inkscape
-+ SVGO, pngquant
++ Inkscape, SVG image editor
++ SVGO and pngquant, image compressor
 
-### Isomorphic
+### Isomorphic Platform
 
-+ nvm, Node.js, npm
++ JavaScript, programming language for the web
++ Node.js, JavaScript on the server
++ npm, Node Package Manager
++ nvm, Node Version Manager
 
 ### Frontend
 
 + Semantic UI framework
-+ Bower (if needed)
++ Bower (when needed)
++ Probably like Vue.js/React/Angular/Backbone/Ember
 
 ### Backend
 
-+ Nginx
-+ Hapi.js
++ Nginx, for the server platform
++ Hapi.js, for the service-based backend framework
 
 ### Database
 
-+ NoSQL MongoDB document database
++ MongoDB, as the NoSQL document database
 
 ### Network
 
-+ Uniregistry registrar
-+ DigitalOcean VPS
-+ Cloudflare
-+ Google Analytics
++ Uniregistry registrar, to purchase http://arlin.link
++ DigitalOcean VPS, to host and as production deploy target
++ Cloudflare, to manage DNS
++ Google Analytics, to track activity
 
 *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *
 
-Initial Data Schema
--------------------
+For more comprehensive technical info, there are sections in the app repo:
 
-### Users
-
-```
-+ _id: UUID
-+ createdDate: Date
-+ updatedDate: Date
-+ username: String
-```
-
-### Questions
-
-```
-+ _id: UUID
-+ createdDate: Date
-+ updatedDate: Date
-+ createdBy: Users._id
-+ title: String
-+ content: String
-```
-
-### Answers
-
-```
-+ _id: UUID
-+ answerTo: Quetions._id
-+ createdDate: Date
-+ updatedDate: Date
-+ createdBy: Users._id
-+ content: String
-```
-
-**Notes:**
-We're not using `timestamp` type because it's only for internal use of the database, not for application.
++ [More Overview](https://github.com/gunadarma-academy/asde-michi-app/blob/master/README.markdown)
++ [Data schema](https://github.com/gunadarma-academy/asde-michi-app/blob/master/DATA-SCHEMA.markdown)
++ [REST API Reference](https://github.com/gunadarma-academy/asde-michi-app/blob/master/API.markdown)
 
