@@ -61,3 +61,4 @@ We're separating the `web` mockup and `app` repo for better development control.
 
 See the [General Notes here](docs/NOTES.markdown).
 By the way, this project or product is originally created for [Advanced Software Development and Engineering (ASDE) course](https://github.com/gunadarma-academy/ASDE). You can expect to see all progress on this project's [GitHub repo](https://github.com/gunadarma-academy/asde-michi) and [Waffle board](https://waffle.io/gunadarma-academy/asde-michi).
+

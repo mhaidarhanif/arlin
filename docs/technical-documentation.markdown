@@ -1,50 +1,52 @@
 Technical Documentation
 =======================
 
-How to develop, build, and use it? Refer to each particular development README in each application folder/repo, those are in [`app`](https://github.com/gunadarma-academy/asde-michi-app) and [`web`](https://github.com/gunadarma-academy/asde-michi-web).
+How to develop
++ build
++ and use it? Refer to each particular development README in each application folder/repo
++ those are in [`app`](https://github.com/gunadarma-academy/asde-michi-app) and [`web`](https://github.com/gunadarma-academy/asde-michi-web).
 
-Requirements
-------------
+Technology Stack
+----------------
 
-### Development Tools
+### Operations
+
++ GitHub
++ WhatsApp
+
+### Engineering/Development
 
 + Terminal and shell (bash/zsh)
-+ Modern code editor such as Vim, Atom, Sublime, WebStorm
++ Modern code editor such as Vim, Atom, Sublime
 + Modern web browser (Google Chrome or Firefox)
-
-### Design Tools
-
-+ Inkscape, SVG image editor
-+ SVGO and pngquant, image compressor
-
-### Isomorphic Platform
-
-+ JavaScript, programming language for the web
-+ Node.js, JavaScript on the server
-+ npm, Node Package Manager
-+ nvm, Node Version Manager
-
-### Frontend
-
++ Git: source/revision control
++ Gulp
++ JavaScript: programming language for the web
++ Node.js: JavaScript on the server
+  + nvm: Node version manager
+  + npm: Node package manager
+  + Bower: frontend package manager
++ MongoDB: NoSQL document database
++ Hapi.js: service-based backend framework
++ Vue.js: reactive frontend framework
++ Nginx: server platform
 + Semantic UI framework
-+ Bower (when needed)
 + Probably like Vue.js/React/Angular/Backbone/Ember
 
-### Backend
+### DevOps/Network
 
-+ Nginx, for the server platform
-+ Hapi.js, for the service-based backend framework
++ Uniregistry registrar: purchase http://arlin.link
++ Cloudflare: manage DNS
++ DigitalOcean VPS: to host and as production deploy target
++ Travis CI
++ Ansible
++ Heroku
 
-### Database
+### Product/Design
 
-+ MongoDB, as the NoSQL document database
-
-### Network
-
-+ Uniregistry registrar, to purchase http://arlin.link
-+ DigitalOcean VPS, to host and as production deploy target
-+ Cloudflare, to manage DNS
-+ Google Analytics, to track activity
++ Segment.io, New Relic, Google Analytics, and Mixpanel: tracking users activity
++ Inkscape: SVG image editor
++ SVGO and pngquant: image compressor
 
 *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *
 
