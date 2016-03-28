@@ -1,26 +1,29 @@
 Logo Design Specifications
 =========================
 
-![logo](arlin_logo_color.png)
+# Arlin Logo
+The Arlin logo combines a symbol/icon and a wordmark/text to give the flexibility for the use of either or both elements for the Arlin website. The symbol characterize the letter "A" from the word "Arlin" and also potraying the image of crossroads.
 
-## Logo Description
-The Arlin logo combines a wordmark and a symbol or icon to give the flexibility for the use of either or both elements for the Arlin website. The symbol characterize the letter "A" from the word "Arlin" and also potraying the image of crossroads to illustrate that this site is relating to transportion. 
+<B>The combined symbol and text logo together: <br>
+![logo](arlin_logo_color.png) <br>
+<img src=arlin_logo_color.png width=300 height=150 /> <br>
+<img src=arlin_logo_color.png width=200 height=100 /> <br>
 
-## Color
-As you can see the Arlin Logo consists of 3 colors: gray, blue and green. 
+<B>The text logo: <br>
+![logo](arlin_logo_color_text_only.png) <br>
+<img src=arlin_logo_color_text_only.png width=150 height=120 /> <br>
+<img src=arlin_logo_color_text_only.png width=50 height=40 /> <br>
+
+<B>The symbol logo: <br>
+![logo](arlin_logo_color_symbol_only.png) <br>
+<img src=arlin_logo_color_symbol_only.png width=75 height=100 /> <br>
+<img src=arlin_logo_color_symbol_only.png width=45 height=60 /> <br>
+
+
+# Color
+As you can see the Arlin Logo consists of 3 colors: Blue gray for text logo, and cyan blue and green for symbol logo. 
 The hex color that have been used are:
-+ 607d8bff - Gray
-+ 00bcd4ff - Blue
-+ 009688ff - Green (more like tosha)
-
-We chose the cool colors (blue, green, violets, and the colors in between them) because cool colors are associated with feeling relaxed, reserved, and can give sense of professionalism and stability and also to adjust it to the website color. 
-
-## The Psychology of Color 
-Based on ["Design for Software"](https://books.google.co.id/books?isbn=1119943701) by Erik Klimczak).
-
-Gray is a neutral color and is grouped into the cool color family . Gray is often considered to be dreary or depressing, but it’s also associated with endurance, classic, refined, conservative, and authoritative . Lighter grays are very commonly used for backgrounds as a way to offset the starkness of white. The same is true for dark grays when using them as an alternative forpure black 
-
-Blue is synonymous with sadness, but it can also represent stability and trust . Blue is often seen in medical and financial institutions because it has a natural ability to invoke a sense of faith, power, and calmness . Light blues can give a clean and crisp feel.
-
-Green is associated with life, growth, healing, money, safety, and relaxation. Green can also be used to represent envy and jealously . Muted variations of the hue can have a calming and balancing effect. Green is appropriate for designs related to renewal, wealth, and environment . Lighter shades of green are very energizing and can invoke a sense of movement.
++ 607d8bff - Blue Gray
++ 00bcd4ff - Cyan Blue
++ 009688ff - Green
 
