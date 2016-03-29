@@ -10,3 +10,7 @@
 	path = web
 	url = git@github.com:gunadarma-academy/asde-michi-web.git
 	branch = master
+[submodule "test"]
+	path = test
+	url = git@github.com:gunadarma-academy/asde-michi-test.git
+	branch = master
