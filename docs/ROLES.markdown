@@ -29,7 +29,10 @@ Regarding to Arlin by Michi work/project management.
 ### Patria as:
 
 + Full stack developer
-  + Implement features for the application, in the backend and frontend.
+  + Design the data structure
+  + Develop backend application with Node.js tech stack (Hapi.js framework)
+  + Develop API for application main features
+  + Develop application database with MongoDB
 + User Researcher
   + Testing the final product.
 
