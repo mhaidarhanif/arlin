@@ -1,15 +1,65 @@
 Branding Design Specification
 ============================
+## Brand Purpose 
+
+**What does our brand stand for?**
+Arlin merupakan suatu wadah yang dapat digunakan kalian untuk mendapatkan informasi mengenai hal yang berhubungan dengan transportasi. Arlin dapat membantu semua masyarakat dari berbagai kalangan. Dengan prinsip "dari kalian oleh kami untuk kalian" sangat terasa bahwa Arlin ini akan terasa maknanya jika kalian ikut terlibat didalamnya, yaitu tidak hanya mencari/mendapat informasi (bertanya) tetapi juga ikut memberikan informasi (menjawab) Kami menyediakan wadah, kalian tinggal memaksimalkannya.
+
+**What is the Arlin's mission?**
+Tujuan Arlin adalah membantu kalian yang kebingungan bertanya mengenai transportasi apa yang kalian harus naiki untuk mencapai tempat tujuan anda. Jika dibandingkan harus bertanya melalui search engine kemudian dihadapkan dengan banyak link yang harus dibuka satu persatu dan belum tentu terjawab, akan lebih mudah jika langsung menuju ke Arlin dan mendapat jawaban.
+
+**How did the name come about? Does the name has any special meaning or significance?**
+Arlin diambil dari singkatan "**AR**ah lalu **LIN**tas". Nama ini dipilih untuk memudahkan kalian mengingat brand kami karena mudah pengucapannya dan juga merupakan singkatan kata yang berhubungan dengan wadah apa yang kami sediakan untuk kalian.
+
+**What is unique about your Arlin? Why should people choose your Arlin?**
+...
 
 ## Shape
+The Arlin logo combines a symbol/icon and a wordmark/text to give the flexibility for the use of either or both elements for the Arlin website. 
+The symbol characterize the letter "A" from the word "Arlin" and also potraying the image of crossroads.
+![crossroads](brand_spec_pic_crossroads.png) ![letterA](brand_spec_pic_letter_a.png	) 
 
-...
 
-## Color
 
-...
+## Color Pallete
+### Logo Color
+![logopallete](brand_spec_pic_logo_pallete.png) <br>
+**The Psychology of Color** <br>
+Based on ["Design for Software"](https://books.google.co.id/books?isbn=1119943701) by Erik Klimczak)
+The colors that we used can be put as 3 dominant colors which are: gray, blue, and green.
+
+Gray is a neutral color and is grouped into the cool color family . Gray is often considered to be dreary or depressing, but it’s also associated with endurance, classic, refined, conservative, and authoritative . Lighter grays are very commonly used for backgrounds as a way to offset the starkness of white. The same is true for dark grays when using them as an alternative forpure black 
+
+Blue is synonymous with sadness, but it can also represent stability and trust . Blue is often seen in medical and financial institutions because it has a natural ability to invoke a sense of faith, power, and calmness . Light blues can give a clean and crisp feel.
+
+Green is associated with life, growth, healing, money, safety, and relaxation. Green can also be used to represent envy and jealously . Muted variations of the hue can have a calming and balancing effect. Green is appropriate for designs related to renewal, wealth, and environment . Lighter shades of green are very energizing and can invoke a sense of movement.
+
+### Web Color <br>
+![web_pallete](https://cloud.githubusercontent.com/assets/17141470/13975999/00c6b422-f0ee-11e5-96bb-9eb5d4aef22e.png) <br>
+The Hex Colors are: <br>
+1. 96ca2dff <br>
+2. b5e655ff <br>
+3. edf7f2ff <br> 
+4. 4bb5c1ff <br>
+5. 7fc6bcff <br>
+
+Pemilihan warna web dilakukan dengan memilih warna yang soft dan dengan mencocokkannya dengan logo yang telah dibuat.
+
 
 ## Typography
+Typography yang akan kami gunakan adalah: <br>
+**1. Gisha <br>**
+![gisha](http://img.font.downloadatoz.com/download/imgs/g/i/s/gisha-bold-lower.png) <br>
+
+Font ini digunakan sebagai font untuk text logo. sedangkan font yang digunakan untuk konten lainnya di web adalah:
+
+**2. Proxima Nova** <br>**
+![proximanova](https://www.palantir.net/the-brand/imgs/proxima-nova.png)
+
+**3. Lato** <br>
+![Lato](http://www.fontscape.com/pictures/google/LatoBlack.gif)
+
+
 
 ...
 
