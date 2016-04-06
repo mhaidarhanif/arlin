@@ -1,15 +1,14 @@
 # ![Arlin by Michi](design/brand/arlin_logo_color.png)
 
 [![Join the chat at https://gitter.im/gunadarma-academy/asde-michi](https://badges.gitter.im/gunadarma-academy/asde-michi.svg)](https://gitter.im/gunadarma-academy/asde-michi?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Works in Ready](https://badge.waffle.io/gunadarma-academy/asde-michi.svg?label=ready&title=Ready)](http://waffle.io/gunadarma-academy/asde-michi)
-[![Works in Progress](https://badge.waffle.io/gunadarma-academy/asde-michi.svg?label=In%20Progress&title=In%20Progress)](http://waffle.io/gunadarma-academy/asde-michi)
-[![Throughput Graph](https://graphs.waffle.io/gunadarma-academy/asde-michi/throughput.svg)](https://waffle.io/gunadarma-academy/asde-michi/metrics)
 
 > Centralized Q&A for city traffic and trip discussion
 
 Arlin (Arah lalu lintas) is a community-driven transportation helper for anyone in the city. The contents will be user generated as the visitors/users discuss something. We provide a platform where user can ask a specific transporation-related question with rating system for each answers. It's like a Stack Exchange equivalent for asking road direction. We expect to complete v1 of the MVP in 4-5 weeks.
 
 The main users mostly are citizens who commute with public/private transporation daily. We need this app because majority of traffic and roads condition in some cities can sometime be an overwhelming experience. Google Maps can sure be a good companion yet in contrary, the chaotic transportation layout is destroying the premises, rendering Google Maps useless, if not efficient. While there are lots of experienced people ready to help at all times, there is virtually not a single medium to connect both parties.
+
+The main project management tools we use are GitHub Issues + Milestones with [ZenHub](https://zenhub.io). Please install ZenHub extension first to see our Kanban board and Burndown chart.
 
 **Original ideas are [written here](docs/IDEAS.markdown).**
 
