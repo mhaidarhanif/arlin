@@ -49,18 +49,16 @@ The Hex Colors are: <br>
 
 ## Typography
 Typography yang akan kami gunakan adalah: <br>
-**1. Gisha <br>**
+**1. Gisha <br><br>**
 ![gisha](http://img.font.downloadatoz.com/download/imgs/g/i/s/gisha-bold-lower.png) <br>
 
 Font ini digunakan sebagai font untuk text logo. sedangkan font yang digunakan untuk konten lainnya di web adalah:
 
-**2. Proxima Nova** <br>**
-![proximanova](https://www.palantir.net/the-brand/imgs/proxima-nova.png)
+**2. Montserrat <br><br>**
+![Montserrat](https://cdn3.fontsquirrel.com/fnt_imgs/27/e50f/fd6a14cbc8221c9dbd3b5208dc/sa-720x300.png)
 
-**3. Lato** <br>
+**3. Lato <br><br>** 
 ![Lato](http://www.fontscape.com/pictures/google/LatoBlack.gif)
 
 
-
-...
 
