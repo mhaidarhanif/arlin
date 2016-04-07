@@ -35,6 +35,10 @@ git submodule init
 git submodule update --recursive
 ```
 
+### Only for maintainers
+
+To update all submodules recursively, use `git submodule update --remote --recursive` and then commit your update.
+
 --------------------------------------------------
 
 ## Extensive Product Documentation
