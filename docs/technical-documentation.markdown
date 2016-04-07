@@ -1,10 +1,19 @@
 Technical Documentation
 =======================
 
-How to develop
-+ build
-+ and use it? Refer to each particular development README in each application folder/repo
-+ those are in [`app`](https://github.com/gunadarma-academy/asde-michi-app) and [`web`](https://github.com/gunadarma-academy/asde-michi-web).
+> How to develop, build, and use it? Refer to each particular development README in each application folder/repo. Those are in [`app`](https://github.com/gunadarma-academy/asde-michi-app) and [`web`](https://github.com/gunadarma-academy/asde-michi-web).
+
+We've been using Linux Ubuntu, Windows, *nix shell, text editors, Git, GitHub, Waffle, ZenHub, SSH, and other various tools to develop our project from the project management through documentation.
+
+We're planning to use these kinds of technologies to actually develop our software application:
+
++ Frontend: HTML5, CSS3/LESS/Stylus, JavaScript, SemanticUI/Bootstrap/UIKit, AngularJS/Vue/React
++ Backend: REST API, Node.js (Express/Hapi/Meteor)
++ Database and Search: MongoDB, Elasticsearch
++ Build and Package Management System: npm, Gulp
++ Server: Linux Ubuntu, Digital Ocean VPS, Docker
++ Continuous Integration (CI) and Continuous Delivery (CD): Distelli, Travis/drone.io/Codeship, CircleCI/Wercker/SnapCI
++ Tracking, monitoring, and analytics: Google Analytics, Monitority, New Relic
 
 Technology Stack
 ----------------
