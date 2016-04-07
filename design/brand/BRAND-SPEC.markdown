@@ -3,16 +3,20 @@ Branding Design Specification
 ## Brand Purpose 
 
 **What does our brand stand for?**
-Arlin merupakan suatu wadah yang dapat digunakan kalian untuk mendapatkan informasi mengenai hal yang berhubungan dengan transportasi. Arlin dapat membantu semua masyarakat dari berbagai kalangan. Dengan prinsip "dari kalian oleh kami untuk kalian" sangat terasa bahwa Arlin ini akan terasa maknanya jika kalian ikut terlibat didalamnya, yaitu tidak hanya mencari/mendapat informasi (bertanya) tetapi juga ikut memberikan informasi (menjawab) Kami menyediakan wadah, kalian tinggal memaksimalkannya.
+
+Arlin is a platform where user can aquire informations regarding public transportation. Arlin helps people of all kinds, and with our principal "from us, by us, for you", we feel the needs of everyone to get involved and participate by asking and also helping people in need.
 
 **What is the Arlin's mission?**
-Tujuan Arlin adalah membantu kalian yang kebingungan bertanya mengenai transportasi apa yang kalian harus naiki untuk mencapai tempat tujuan anda. Jika dibandingkan harus bertanya melalui search engine kemudian dihadapkan dengan banyak link yang harus dibuka satu persatu dan belum tentu terjawab, akan lebih mudah jika langsung menuju ke Arlin dan mendapat jawaban.
+
+We believe that people should always prepare of what's coming. And that includes your transporation plan. Jakarta's public transportation is more or less a messy situation, and we can help you prepare better by having you asking the right question in the platform.
 
 **How did the name come about? Does the name has any special meaning or significance?**
-Arlin diambil dari singkatan "**AR**ah lalu **LIN**tas". Nama ini dipilih untuk memudahkan kalian mengingat brand kami karena mudah pengucapannya dan juga merupakan singkatan kata yang berhubungan dengan wadah apa yang kami sediakan untuk kalian.
+
+Arlin is a short for "ARah lalu LINtas, which roughly translate as "traffic way". Arlin also stands for a common Indonesian name which serves the purpose of making the brand easy in the ears and tongues of the locals. 
 
 **What is unique about your Arlin? Why should people choose your Arlin?**
-...
+
+Arlin's services might reminds you of one feature of Google Maps that is able to direct you to the destination by public transportation. While it is seemingly more convenient and faster way to get the direction, the algorithm sometimes feels off and unreliable. So we decide to take the advantages of the more reliable, trustable sources, which in the experienced, local, real human who know their way of Jakarta better than the most advanced AI technology.
 
 ## Shape
 The Arlin logo combines a symbol/icon and a wordmark/text to give the flexibility for the use of either or both elements for the Arlin website. 
@@ -42,9 +46,6 @@ The Hex Colors are: <br>
 3. edf7f2ff <br> 
 4. 4bb5c1ff <br>
 5. 7fc6bcff <br>
-
-Pemilihan warna web dilakukan dengan memilih warna yang soft dan dengan mencocokkannya dengan logo yang telah dibuat.
-
 
 ## Typography
 Typography yang akan kami gunakan adalah: <br>
