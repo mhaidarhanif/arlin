@@ -31,4 +31,12 @@ Features
 
 ### Must Have
 
-(Relate to <https://github.com/gunadarma-academy/asde-michi/issues/11>)
+1. The user with their corresponding question should be able to accept answers with a _Verify_ button should they actually prove the reliabity of the answer firsthand. 
+2. Every user should be able to either upvote or downvote each of the answer from a question if they have their own experience on it, or if they believe the answer is correct. The vote would either make the user who anwers gain credibility among the users.
+3. (Optional) Every user should be able to make a list of Favorite questions so that they can find them quickly without having to bookmark or manually search for them. 
+4. (Optional) Every user should have their own profile with sets of other features such as:
+   - The user should be able to see lists of their own questions.
+   - The user should be able to see lists of their own answers.
+   - The user should be able to see lists of their favorite questions.
+   - The user should be able to see the voting statistics.
+   - The user should be able to modify their profile information.
