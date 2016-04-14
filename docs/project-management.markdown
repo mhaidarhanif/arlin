@@ -12,6 +12,8 @@ For Michi team, we're using Minimal Agile Kanban with GitHub and Waffle.
 
 ### Agile
 
+> This principles does work
+
 **Agile Principles** or Agile Software Development is a set of principles for software development in which requirements and solutions evolve through collaboration between self-organizing, cross-functional teams. It promotes adaptive planning, evolutionary development, early delivery, and continuous improvement, and it encourages rapid and flexible response to change.
 
 This principles value:
@@ -29,6 +31,8 @@ Ref:
 
 ### Kanban
 
+> This method does work
+
 **Kanban Methodologies** is a new technique for managing a software development process in a highly efficient way. It is another framework used to implement agile. Kanban underpins Toyota's "just-in-time" (JIT) production system. Although producing a software is a creative activity and therefore, different to mass-producing cars, the underlying mechanism for managing the production line can still be applied.
 
 Ref:  
@@ -44,6 +48,8 @@ Ref:
 ---
 
 ### Minimal
+
+> This method does work
 
 **Minimal Project Management** consists of only a few steps (and one change process):
 
@@ -61,6 +67,8 @@ Ref:
 
 ### GitHub Flow
 
+> This method does work
+
 **GitHub Flow** is a lightweight, branch-based workflow that supports teams and projects where deployments are made regularly.
 
 Ref:  
@@ -70,11 +78,23 @@ Ref:
 
 ### Waffle Board
 
-Currently beside within GitHub; our project management, progress documentation, and kanban board are also available on Waffle.io (https://waffle.io/gunadarma-academy/asde-michi). It automatically put all of the GitHub issues –including all of the Statement of Work (SOW) in our case– in the appropriate columns.
+> This doesn't work well. Migrated to ZenHub.
+
+Previously, our project management, progress documentation, and kanban board are also available on Waffle.io (https://waffle.io/gunadarma-academy/asde-michi). It automatically put all of the GitHub issues –including all of the Statement of Work (SOW) in our case– in the appropriate columns.
+
+---
+
+### ZenHub Board and Burndown
+
+> This way does work.
+
+Currently our project management, progress documentation, and kanban board are also available on through [ZenHub](http://zenhub.io). It automatically put all of the GitHub issues –including all of the Statement of Work (SOW) in our case– in the appropriate columns. Along with that, we can also see our burndown progress for each milestones.
 
 ---
 
 ### Design Sprint
+
+> This doesn't happen. The understanding requires a lot of adjustment in successive time, a whole week without interruption at the same place.
 
 In addition, we havee to test our ideas and app to actual users outside of us. We might consider to use design sprint method.
 
@@ -91,6 +111,8 @@ Ref:
 
 ### Semantic Versioning
 
+> This does work for some part.
+
 **Semantic Versioning** is a simple set of rules and requirements that dictate how version numbers are assigned and incremented. These rules are based on but not necessarily limited to pre-existing widespread common practices in use in both closed and open-source software. Under this scheme, version numbers and the way they change convey meaning about the underlying code and what has been modified from one version to the next.
 
 Given a version number MAJOR.MINOR.PATCH, increment the:
@@ -106,6 +128,8 @@ Ref:
 
 ### Holacracy
 
+> This does work.
+
 Related to https://github.com/gunadarma-academy/asde-michi/issues/16, if team member roles need to be defined clearly, communicative, and informative. There's a flexible yet comprehensive guide on how to arrange our team circle of work and roles, named Holacracy. **Holacracy** is a complete system for self-organization. It brings structure and discipline to a peer-to-peer workplace.
 
 **The Holacracy Constitution** documents the core rules, structure, and processes of the Holacracy “operating system” for governing and managing an organization. It provides the foundation for an organization wishing to use Holacracy, by anchoring the shift of power required in concrete and documented “rules of the game”, which everyone involved can rely upon.
@@ -120,6 +144,8 @@ Ref:
 ---
 
 ### Continuous Integration (CI)
+
+> This presumably will work along with automated testing.
 
 **Continuous Integration (CI)** in software development and engineering is the practice of merging or integrating all developer working code and copies with a shared repository/mainline several times a day. Each check-in is then verified by an automated build, allowing teams to detect problems early. CI is very frequently accompanied by **Continuous Delivery/Deployment (CD)** and very often when people talk about CI they refer to both.
 
