@@ -58,7 +58,9 @@ See the [User Documentation here](docs/user-documentation.markdown).
 ## Technical Documentation
 
 See the [Technical Documentation here](docs/technical-documentation.markdown).
-We're separating the `web` mockup and `app` repo for better development control. [See the web mockup here](https://github.com/gunadarma-academy/asde-michi-web) or [see the application repo here](https://github.com/gunadarma-academy/asde-michi-app).
+We're separating the `backend` and `frontend` app repo for better development control.
+
+Notes; [See the archived web mockup here](https://github.com/gunadarma-academy/asde-michi-web).
 
 ## General Notes
 
