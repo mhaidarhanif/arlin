@@ -1,16 +1,16 @@
-[submodule "app"]
-	path = app
-	url = git@github.com:gunadarma-academy/asde-michi-app.git
-	branch = master
 [submodule "slide"]
 	path = slide
 	url = git@github.com:gunadarma-academy/asde-michi-slide.git
 	branch = master
-[submodule "web"]
-	path = web
-	url = git@github.com:gunadarma-academy/asde-michi-web.git
-	branch = master
 [submodule "test"]
 	path = test
 	url = git@github.com:gunadarma-academy/asde-michi-test.git
+	branch = master
+[submodule "backend"]
+	path = backend
+	url = git@github.com:gunadarma-academy/asde-michi-backend.git
+	branch = master
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:gunadarma-academy/asde-michi-frontend.git
 	branch = master
