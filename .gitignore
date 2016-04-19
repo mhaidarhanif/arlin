@@ -427,8 +427,6 @@ zeus.json
 # Media
 #######
 
-*.png
-*.jpg
 *.mov
 *.mp4
 *.mp3
