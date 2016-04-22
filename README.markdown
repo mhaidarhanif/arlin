@@ -68,6 +68,10 @@ We're separating the `backend` and `frontend` app repo for better development co
 
 Notes; [See the archived web mockup here](https://github.com/gunadarma-academy/asde-michi-web).
 
+## User Manual
+
+See the [User Manual here](docs/USER-MANUAL.pdf) (indonesian version).
+
 ## General Notes
 
 See the [General Notes here](docs/NOTES.markdown).
