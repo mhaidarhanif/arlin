@@ -39,6 +39,10 @@ git submodule update --recursive
 
 To update all submodules recursively, use `git submodule update --remote --recursive` and then commit your update.
 
+### Project Structure
+
+![Project Structure](./docs/PROJECT-STRUCTURE.png)
+
 --------------------------------------------------
 
 ## Extensive Product Documentation
