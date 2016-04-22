@@ -1,6 +1,8 @@
 # ![Arlin by Michi](design/brand/arlin_logo_color.png)
 
-[![Join the chat at https://gitter.im/gunadarma-academy/asde-michi](https://badges.gitter.im/gunadarma-academy/asde-michi.svg)](https://gitter.im/gunadarma-academy/asde-michi?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+| Chat | Backend | Frontend |
+|------|---------|----------|
+| [![Chat on Gitter](https://badges.gitter.im/gunadarma-academy/asde-michi.svg)](https://gitter.im/gunadarma-academy/asde-michi?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) | [![Snap Build Status](https://snap-ci.com/gunadarma-academy/asde-michi-backend/branch/master/build_image)](https://snap-ci.com/gunadarma-academy/asde-michi-backend/branch/master) | [![Snap CI Build Status](https://snap-ci.com/gunadarma-academy/asde-michi-frontend/branch/master/build_image)](https://snap-ci.com/gunadarma-academy/asde-michi-frontend/branch/master) |
 
 > Centralized Q&A for city traffic and trip discussion
 
