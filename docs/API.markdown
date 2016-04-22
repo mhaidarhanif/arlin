@@ -1,11 +1,7 @@
-Arlin API v0 References
+Arlin API v2 References
 =======================
 
 Base route: `/api`
-
-> Currently:  
-> We don't require strict authentication for accessing the API, since we're not planning to publicize it yet.  
-> All of our sorts are based on `creation_date` in descending order. Initially, we don't limit scope range and not even a quota.
 
 List of routes for basic actions of users, questions, answers:
 
