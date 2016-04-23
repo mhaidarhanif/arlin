@@ -49,30 +49,28 @@ To update all submodules recursively, use `git submodule update --remote --recur
 
 ## Extensive Product Documentation
 
-See the [Product document](docs/product.markdown).
+See the [Product document](docs/PRODUCT.markdown).
 In the first time, we're presenting the ideas with [our `slide` here](https://github.com/gunadarma-academy/asde-michi-slide).
 
 ## Project Management Documentation
 
-See the [Project Management document](docs/project-management.markdown).
+See the [Project Management document](docs/PROJECT-MANAGEMENT.markdown).
 We're mainly using [GitHub Issues](https://github.com/gunadarma-academy/asde-michi/issues) and [integrate it to Waffle.io board](https://waffle.io/gunadarma-academy/asde-michi) to track our work progress.
 
-## User Documentation
+## User Documentation and Manual
 
-See the [User Documentation here](docs/user-documentation.markdown).
+See the [User Documentation here](docs/USER-DOCUMENTATION.markdown).
+See the [User Manual here](docs/USER-MANUAL.pdf) (Indonesian version).
 
 ## Technical Documentation
 
-See the [Technical Documentation here](docs/technical-documentation.markdown).
+See the [Technical Documentation here](docs/TECHNICAL-DOCUMENTATION.markdown).
 We're separating the `backend` and `frontend` app repo for better development control.
 
 Notes; [See the archived web mockup here](https://github.com/gunadarma-academy/asde-michi-web).
-
-## User Manual
-
-See the [User Manual here](docs/USER-MANUAL.pdf) (indonesian version).
 
 ## General Notes
 
 See the [General Notes here](docs/NOTES.markdown).
 By the way, this project or product is originally created for [Advanced Software Development and Engineering (ASDE) course](https://github.com/gunadarma-academy/ASDE). You can expect to see all progress on this project's [GitHub repo](https://github.com/gunadarma-academy/asde-michi), as well as its [issues](https://github.com/gunadarma-academy/asde-michi/issues) and [milestones](https://github.com/gunadarma-academy/asde-michi/milestones).
+
