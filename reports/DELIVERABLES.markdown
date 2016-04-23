@@ -9,3 +9,6 @@ Each team member had to generate and explain their idea. All ideas has been writ
 
 ### [#2](https://github.com/gunadarma-academy/asde-michi/issues/2): Choose a project management and software development methods
 We decided our project management and software development methods. We considered Minimal Agile Kanban with GitHub and Waffle as our suitable project management.
+
+### [#3](https://github.com/gunadarma-academy/asde-michi/issues/3): Include slide inside main repo
+SOW by M Haidar Hanif for making it easy to make the slide for Michi Team by separating the repo. The slide assets will be included within `slide` directory.
