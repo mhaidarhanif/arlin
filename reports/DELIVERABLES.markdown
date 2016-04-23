@@ -18,3 +18,6 @@ Clearly explained our project management and software development methodologies,
 
 ### [#16](https://github.com/gunadarma-academy/asde-michi/issues/16): Specify team member roles
 Each team members should be specified by their main tasks/works. We could  see explicitly who and what were the team member roles. Also understood about our management-less approach.
+
+### [#21](https://github.com/gunadarma-academy/asde-michi/issues/21): Tidy up various submodules
+Tidy up various submodules that include the slide, app, and the web. Everyone had to understand and used submodules to pull various resources outside this repo.
