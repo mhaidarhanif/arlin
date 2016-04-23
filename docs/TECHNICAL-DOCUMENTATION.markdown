@@ -3,7 +3,7 @@ Technical Documentation
 
 > How to develop, build, test, and use it? Refer to each particular development README in each application folder/repo. Those are in [`backend`](https://github.com/gunadarma-academy/asde-michi-backend), [`frontend`](https://github.com/gunadarma-academy/asde-michi-frontend), and [`test`](https://github.com/gunadarma-academy/asde-michi-test) repo.
 
-We've been using Linux Ubuntu, Windows, *nix shell, text editors, Git, GitHub, Waffle, ZenHub, SSH, and other various tools to develop our project from the project management through documentation.
+We've been using Linux Ubuntu, Windows, POSIX shell, text editors, Git, GitHub, Waffle, ZenHub, SSH, and other various tools to develop our project from the project management through documentation.
 
 We're planning to use these kinds of technologies to actually develop, build, test, and monitor our software application:
 
@@ -15,8 +15,10 @@ We're planning to use these kinds of technologies to actually develop, build, te
 + Continuous Integration (CI) and Continuous Delivery (CD): Codeship or Snap CI
 + Tracking, monitoring, and analytics: Google Analytics, Monitority, New Relic
 
-Current Main Technology Stack
------------------------------
+Current Technology Infrastucture
+--------------------------------
+
+Main Stacks:
 
 + Application (Node.js, Feathers, Vue.js)
 + Database (NeDB)
@@ -24,6 +26,10 @@ Current Main Technology Stack
 + Operating System (Linux Ubuntu)
 + Hardware (Digital Ocean VPS, CI/CD SaaS)
 + Network (Uniregistry, CloudFlare, IP, DNS)
+
+Illustrated:
+
+![Technical Infrastructure](TECHNICAL-INFRASTRUCTURE.png)
 
 Tools Breakdown
 --------------
