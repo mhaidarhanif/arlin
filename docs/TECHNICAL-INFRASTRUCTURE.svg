@@ -15,7 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="TECHNICAL-ARCHITECTURE.svg">
+   sodipodi:docname="TECHNICAL-INFRASTRUCTURE.svg"
+   inkscape:export-filename="/home/mhaidarh/all/repo/gunadarma/academy/arlin/docs/TECHNICAL-INFRASTRUCTURE.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -40,9 +43,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.3504939"
-     inkscape:cx="1113.3371"
-     inkscape:cy="438.96217"
+     inkscape:zoom="0.46650738"
+     inkscape:cx="1091.125"
+     inkscape:cy="603.53507"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -276,20 +279,20 @@
        id="text3004-43-4-3-5-0-3"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan3006-3-3-1-5-1-7"
          x="87.34375"
          y="-67.247192"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;font-family:Hack;-inkscape-font-specification:Hack">arlin</tspan><tspan
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;font-family:Hack;-inkscape-font-specification:Hack"
+         id="tspan6232">ARLIN</tspan><tspan
          sodipodi:role="line"
          x="87.34375"
          y="-17.247192"
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;font-family:Hack;-inkscape-font-specification:Hack"
-         id="tspan6230">application</tspan><tspan
+         id="tspan3174">TECHINCAL</tspan><tspan
          sodipodi:role="line"
          x="87.34375"
          y="32.752808"
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;font-family:Hack;-inkscape-font-specification:Hack"
-         id="tspan6232">architecture</tspan></text>
+         id="tspan3176">INFRASTRUCTURE</tspan></text>
     <path
        style="fill:#80deea;fill-opacity:1;stroke:none"
        d="m 809.99561,12.362183 609.99999,0 0,79.999997 -609.99999,0 z"
