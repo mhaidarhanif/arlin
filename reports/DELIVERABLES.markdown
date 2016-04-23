@@ -21,3 +21,6 @@ Each team members should be specified by their main tasks/works. We could  see e
 
 ### [#21](https://github.com/gunadarma-academy/asde-michi/issues/21): Tidy up various submodules
 Tidy up various submodules that include the slide, app, and the web. Everyone had to understand and used submodules to pull various resources outside this repo.
+
+### [#32](https://github.com/gunadarma-academy/asde-michi/issues/32): Determine templates for master test plan
+We decided to choose our master test plan template. We adapted [Master Test Plan (v061111) by Northwestern University Information Technology (in DOCX format)](http://www.it.northwestern.edu/bin/docs/project-framework/Master_Test_Plan_v061111.docx) as our master test plan based on our project management.
