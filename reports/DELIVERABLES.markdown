@@ -6,3 +6,6 @@
 
 ### [#1](https://github.com/gunadarma-academy/asde-michi/issues/1): Generate and improve our ideas
 Each team member had to generate and explain their idea. All ideas has been written to [IDEAS](docs/IDEAS.markdown) file. Some ideas would be eliminated until we got one good and proper idea.
+
+### [#2](https://github.com/gunadarma-academy/asde-michi/issues/2): Choose a project management and software development methods
+We decided our project management and software development methods. We considered Minimal Agile Kanban with GitHub and Waffle as our suitable project management.
