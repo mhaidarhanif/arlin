@@ -43,9 +43,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.46650738"
-     inkscape:cx="1091.125"
-     inkscape:cy="603.53507"
+     inkscape:zoom="0.56447393"
+     inkscape:cx="775.60495"
+     inkscape:cy="560.03701"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -72,22 +72,29 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,147.63782)">
+     id="layer2"
+     inkscape:label="bg"
+     sodipodi:insensitive="true"
+     style="display:inline">
     <rect
        style="fill:#edf7f2;fill-opacity:1;stroke:none"
        id="rect3801-4"
        width="2200"
        height="1200"
        x="0"
-       y="-147.63782" />
+       y="0" />
+  </g>
+  <g
+     inkscape:label="comps"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,147.63782)">
     <image
        y="952.36218"
        x="1410"
@@ -128,12 +135,12 @@
        height="120"
        width="367.67123" />
     <image
-       y="482.36218"
-       x="10"
+       y="487.36218"
+       x="26.324177"
        id="image4093"
        xlink:href="file:///home/mhaidarh/all/repo/gunadarma/academy/arlin/docs/images/nodejs.png"
-       height="100"
-       width="163.24181" />
+       height="90"
+       width="146.91763" />
     <g
        id="g4267"
        transform="matrix(7.1428571,0,0,7.1428571,183.24181,507.36218)">
@@ -351,7 +358,7 @@
          style="font-size:60px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;font-family:Hack;-inkscape-font-specification:Hack">backend</tspan></text>
     <image
        y="332.36218"
-       x="460"
+       x="510"
        id="image3442"
        xlink:href="file:///home/mhaidarh/all/repo/gunadarma/academy/arlin/docs/images/feathers.png"
        height="50"
@@ -411,7 +418,7 @@
     </g>
     <g
        id="g7147"
-       transform="translate(14.366196,-10.000003)">
+       transform="translate(64.366196,-10.000003)">
       <g
          id="g7131">
         <image
@@ -519,7 +526,7 @@
     </g>
     <g
        id="g6397"
-       transform="translate(0,-20)">
+       transform="translate(90,-20)">
       <image
          width="144.40433"
          height="100"
@@ -551,31 +558,31 @@
            sodipodi:role="line">Lite</tspan></text>
     </g>
     <g
-       id="g4632"
-       transform="translate(-19.098267,6.405267)">
+       id="g3336"
+       transform="translate(100,-6.6162179)">
       <image
          width="100"
          height="100"
          xlink:href="file:///home/mhaidarh/all/repo/gunadarma/academy/arlin/docs/images/vuejs.png"
          id="image4906"
-         x="597.96155"
-         y="663.21765" />
+         x="578.86328"
+         y="669.62292" />
       <text
          xml:space="preserve"
          style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#35495e;fill-opacity:1;stroke:none;font-family:Sans"
-         x="696.84827"
-         y="724.25281"
+         x="558.0918"
+         y="800.01355"
          id="text3004-43-4-3-5-0-4-1-9"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
-           x="696.84827"
-           y="724.25281"
+           x="558.0918"
+           y="800.01355"
            style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#35495e;fill-opacity:1;font-family:Hack;-inkscape-font-specification:Hack"
            id="tspan4080-5">Vue.js</tspan></text>
     </g>
     <g
        id="g6989"
-       transform="translate(0,-32.739258)">
+       transform="translate(90,-32.739258)">
       <g
          transform="translate(-10,29.817132)"
          id="g4422">
@@ -609,7 +616,7 @@
     </g>
     <g
        id="g6985"
-       transform="translate(-19.903839,-20)">
+       transform="translate(70.096161,-20)">
       <image
          width="120.19231"
          height="100"
@@ -703,12 +710,12 @@
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="820.57617"
-       y="546.92273"
+       y="566.92273"
        id="text3004-43-4-3-5-0-4-9-0-7"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          x="820.57617"
-         y="546.92273"
+         y="566.92273"
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;text-anchor:middle;fill:#000000;fill-opacity:1;font-family:Hack;-inkscape-font-specification:Hack"
          id="tspan7155">REST API</tspan></text>
     <g
@@ -806,7 +813,7 @@
        y="572.36218" />
     <g
        id="g7127"
-       transform="translate(-13.197143,-20.755374)">
+       transform="translate(36.802857,-20.755374)">
       <image
          width="143.7247"
          height="100"
@@ -1091,5 +1098,61 @@
        xlink:href="file:///home/mhaidarh/all/repo/gunadarma/academy/arlin/docs/images/atom.png"
        height="50"
        width="237.1134" />
+    <image
+       y="262.36218"
+       x="545.17603"
+       id="image3311"
+       xlink:href="file:///home/mhaidarh/all/repo/gunadarma/academy/arlin/docs/images/express.png"
+       height="50"
+       width="224.64789" />
+    <g
+       id="g3380"
+       transform="translate(39.40863,-132.41699)">
+      <text
+         sodipodi:linespacing="100%"
+         id="text3004-43-4-3-5-0-4-9-0-7-1"
+         y="657.36218"
+         x="781.56793"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           id="tspan7155-7"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;text-anchor:middle;fill:#000000;fill-opacity:1;font-family:Hack;-inkscape-font-specification:Hack"
+           y="657.36218"
+           x="781.56793"
+           sodipodi:role="line">WebSocket</tspan></text>
+      <rect
+         style="opacity:0.5;fill:#f44336;fill-opacity:1;stroke:none"
+         id="rect4185-14-6"
+         width="110"
+         height="20"
+         x="725.59137"
+         y="639.90613" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-332.76257"
+       y="79.433594"
+       id="text3004-43-4-3-5-0-30"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3006-3-3-1-5-1-2"
+         x="-332.76257"
+         y="79.433594"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;font-family:Hack;-inkscape-font-specification:Hack">server</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-732.25476"
+       y="79.433594"
+       id="text3004-43-4-3-5-0-30-8"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3006-3-3-1-5-1-2-1"
+         x="-732.25476"
+         y="79.433594"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;font-family:Hack;-inkscape-font-specification:Hack">client</tspan></text>
   </g>
 </svg>
