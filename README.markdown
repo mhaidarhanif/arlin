@@ -10,7 +10,7 @@ Arlin (Arah lalu lintas) is a community-driven transportation helper for anyone 
 
 The main users mostly are citizens who commute with public/private transporation daily. We need this app because majority of traffic and roads condition in some cities can sometime be an overwhelming experience. Google Maps can sure be a good companion yet in contrary, the chaotic transportation layout is destroying the premises, rendering Google Maps useless, if not efficient. While there are lots of experienced people ready to help at all times, there is virtually not a single medium to connect both parties.
 
-The main project management tools we use are GitHub Issues + Milestones with [ZenHub](https://zenhub.io). Please install ZenHub extension first to see our Kanban board and Burndown chart.
+The main project management tools we use are GitHub Issues + Milestones with [ZenHub](https://zenhub.io). Please install ZenHub extension first to see our [Kanban board](https://github.com/gunadarma-academy/asde-michi#boards) and [Burndown chart](https://github.com/gunadarma-academy/asde-michi#burndown) for each milestones.
 
 **Original ideas are [written here](docs/IDEAS.markdown).**
 
@@ -29,7 +29,15 @@ The main project management tools we use are GitHub Issues + Milestones with [Ze
 
 ## How to use this repo
 
-This repo is using `git submodules` for `app`, `slide`, and `web`. You are recommended to clone this repo with `git clone --recursive`. Or if you want, or have regular clone already, or is experiencing a slow connection; please sync, init, and update the submodules like the following. Please keep in mind that you should not modify or work in the synced submodules, but work in each single repo itself.
+This is the main or parent repo, an umbrella project for all things Arlin by Michi. We contains several submodules:
+
+- Introductory and presentation slide: [slide](https://github.com/gunadarma-academy/asde-michi-slid)
+- Testing suite, docs, and reports: [test](https://github.com/gunadarma-academy/asde-michi-test)
+- Next frontend or client side: [frontend](https://github.com/gunadarma-academy/asde-michi-frontend)
+- Next backend or server side: [backend](https://github.com/gunadarma-academy/asde-michi-backend)
+  - The legacy production app is still here: [backend-tel](https://github.com/gunadarma-academy/asde-michi-backend-tel)
+
+The `git submodules` are for `slide`, `test`, `backend`, and `frontend`. You are recommended to clone this repo with `git clone --recursive`. Or if you want, or have regular clone already, or is experiencing a slow connection; please sync, init, and update the submodules like the following. Please keep in mind that you should not modify or work in the synced submodules, but work in each single repo itself.
 
 ```
 git submodule sync
@@ -73,4 +81,3 @@ Notes; [See the archived web mockup here](https://github.com/gunadarma-academy/a
 
 See the [General Notes here](docs/NOTES.markdown).
 By the way, this project or product is originally created for [Advanced Software Development and Engineering (ASDE) course](https://github.com/gunadarma-academy/ASDE). You can expect to see all progress on this project's [GitHub repo](https://github.com/gunadarma-academy/asde-michi), as well as its [issues](https://github.com/gunadarma-academy/asde-michi/issues) and [milestones](https://github.com/gunadarma-academy/asde-michi/milestones).
-
