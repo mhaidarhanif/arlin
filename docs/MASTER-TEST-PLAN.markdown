@@ -24,8 +24,9 @@ This is a description of the features/scopes also with their responsibilities th
 | ----------- | ------------------
 | Authentication, Sign up, Sign in | Muhammad Patria
 | Posting question, Posting answer, List all questions, and List question’s answers | Ruth Theodora
-| User Acceptance Test     | Muhammad Patria, Ruth Theodora
-| Unit/Functional/Integration/E2E Test | Muhammad Haidar Hanif, Ekky Bayu Pramana
+| User Acceptance Test | Muhammad Patria, Ruth Theodora
+| Usability Test | Ekky Bayu Pramana
+| Unit/Functional/Integration/E2E Test | M Haidar Hanif
 
 --------------------------------------------------------------------------------
 
@@ -97,11 +98,12 @@ Database:
 
 ## Bug Tracking/Process/Resolution
 
-> We haven't got any bug report from external party yet.
+> We haven't got any bug report from external party yet. So this process is not yet executable.
 
 During testing, the testing team members normally encounter behavior that goes against a specified or implied design requirement in the product.  When this happens, we will document and reproduce the bugs for the developers.
 
 Expectation of a bug:
+
 - Keep track of what version of the application the bug is found
 - Determine if bug has already been written up
 - Indicate the steps to reproduce the bug – write enough details for others looking at the bug to be able to duplicate it; exclude unnecessary steps (i.e. If access point is irrelevant, be more general in your steps).
@@ -113,9 +115,9 @@ Expectation of a bug:
 
 The following detail defines the impact levels to be used when entering bugs.
 
-1 – Fatal - Test Stopper: If you can’t access a function and need the bug to be fixed immediately.  The defect prevents QA from testing the feature area, sub-area or functionality of the feature.
-2 – Serious - Beta Stopper: This is a bug that users would experience such as: data corruption, calculation errors, incorrect data, UE’s and system crash on common user scenarios, significant QA risk, and major UI defects.
-3 – Minor - Live Release: A bug that must be fixed before the product is officially completed, UE’s or crashes, content, and UI and graphic changes required for release.
+1. Fatal - Test Stopper: If you can’t access a function and need the bug to be fixed immediately.  The defect prevents QA from testing the feature area, sub-area or functionality of the feature.
+2. Serious - Beta Stopper: This is a bug that users would experience such as: data corruption, calculation errors, incorrect data, UE’s and system crash on common user scenarios, significant QA risk, and major UI defects.
+3. Minor - Live Release: A bug that must be fixed before the product is officially completed, UE’s or crashes, content, and UI and graphic changes required for release.
 
 ### Various Common Roles in Bug Resolution
 
