@@ -59,11 +59,11 @@ Integration testing itself is a software testing methodology used to test indivi
 
 End-to-End testing is a technique used to test whether the flow of an application right from start to finish is behaving as expected. The purpose of performing end-to-end testing is to identify system dependencies and to ensure that the data integrity is maintained between various system components and systems. The entire application is tested for critical functionalities such as communicating with the other systems, interfaces, database, network, and other applications. Within the [`test`](https://github.com/gunadarma-academy/asde-michi-test) repo, we're running the feature files (along with their step definitions) to run our E2E test. The testing flow itself is [in its own section](https://github.com/gunadarma-academy/asde-michi-test#testing-flow). The main test runner for E2E test is [Cucumber](https://cucumber.io) that uses [Gherkin syntax](https://cucumber.io/docs/reference) with [step definitions](https://cucumber.io/docs/reference#step-definitions).
 
-### User Interface Test
+### Usability Test
 
-> Since presumably the time is very limited, we didn't commence this test.
+> This should be done as a complement to the main user acceptance test
 
-User interface test (UIT) is a testing technique used to identify the presence of defects is a product/software under test by using graphical user interface. The characteristics of the test include a thorough check of the properties on each GUI object, as well as to make sure the graphical representation is consistent with the expected result of the test. The test conducted by asking participants to exercise some simple tasks that represent each of the elements, objects, events, and navigations while each actions is recorded.
+Usability testing refers to evaluating a product or service by testing it with representative users. Typically, during a test, participants will try to complete typical tasks while observers watch, listen and takes notes.  The goal is to identify any usability problems, collect qualitative and quantitative data and determine the participant's satisfaction with the product.
 
 ### User Acceptance Test
 
