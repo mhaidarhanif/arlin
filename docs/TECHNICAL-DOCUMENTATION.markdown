@@ -73,8 +73,11 @@ Tools Breakdown
 
 *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *
 
-For more comprehensive technical info, there are sections in the app repo:
+For more comprehensive technical info, there are several in-depth sections in the `docs`:
 
-+ [More Overview](https://github.com/gunadarma-academy/asde-michi-app/blob/master/README.markdown)
-+ [Data schema](https://github.com/gunadarma-academy/asde-michi-app/blob/master/DATA-SCHEMA.markdown)
-+ [REST API Reference](https://github.com/gunadarma-academy/asde-michi-app/blob/master/API.markdown)
++ [Data Schema Reference](https://github.com/gunadarma-academy/asde-michi/blob/master/docs/DATA-SCHEMA.markdown)
++ [REST API Reference](https://github.com/gunadarma-academy/asde-michi/blob/master/docs/API.markdown)
++ [Routes Reference](https://github.com/gunadarma-academy/asde-michi/blob/master/docs/ROUTES.markdown)
++ [More Overview in Backend](https://github.com/gunadarma-academy/asde-michi-backend)
+  + [More Overview in the Legacy Backend](https://github.com/gunadarma-academy/asde-michi-backend-tel)
++ [More Overview in Frontend](https://github.com/gunadarma-academy/asde-michi-frontend)
