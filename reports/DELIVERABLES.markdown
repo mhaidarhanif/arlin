@@ -54,10 +54,10 @@ We decided to choose our master test plan template. We adapted [Master Test Plan
 ## User Acceptance Testing
 > April 20, 2016 - April 25, 2016
 
-![7-user-acceptance-testing](https://cloud.githubusercontent.com/assets/4652284/14812342/fed7556a-0bc6-11e6-9ae2-646476224416.png)
+![7-user-acceptance-testing](https://cloud.githubusercontent.com/assets/4652284/14812601/0113e4dc-0bc8-11e6-9a98-be5082cb8f06.png)
 
 ## Product Roadmap for Arlin v2
-...
+> April 18, 2016 - April 27, 2016
 
 ## Application Testing
-...
+> April 20, 2016 - April 27, 2016
