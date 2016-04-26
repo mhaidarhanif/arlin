@@ -48,7 +48,7 @@ Success Criteria
 
 The overall results from the user acceptance test that obtained from the online questionnaire are shown in the table below.
 
-![data-analysis-uat](https://cloud.githubusercontent.com/assets/4652284/14762705/90b0e3b6-09ab-11e6-8bee-d61c2853a3c7.png)
+![data-analysis-uat](https://cloud.githubusercontent.com/assets/17141470/14813423/cffe8b00-0bcb-11e6-9106-b88ff0527880.png)
 
 The result are: 
 - 19.5% for the very agree answer (scale 5),
@@ -59,7 +59,7 @@ The result are:
 
 After we combine the percentage, the result are shown in the table below.
 
-![data-result](https://cloud.githubusercontent.com/assets/4652284/14762717/e44b888c-09ab-11e6-8493-66d994cff855.png)
+![data-result](https://cloud.githubusercontent.com/assets/17141470/14813422/cffdf0a0-0bcb-11e6-8ea5-3f7ec7076d1c.png)
 
 The average percentages for all questions are
 - 74.15% for the good variable (scale 4 + scale 5),
