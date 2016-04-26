@@ -1,4 +1,5 @@
 # Arlin by Michi Report: Deliverables
+It contains all SOWs from each milestones, including its burndown charts. All SOWs that have been reported in this document is the delivered SOWs.
 
 ## Project Management Setup
 > March 14, 2016 - March 30, 2016
