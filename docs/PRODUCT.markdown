@@ -40,3 +40,19 @@ Features
    - The user should be able to see lists of their favorite questions.
    - The user should be able to see the voting statistics.
    - The user should be able to modify their profile information.
+
+Success Criteria
+----------------
+
+### User Acceptance Testing
+
+The overall results from the user acceptance test that obtained from the online questionnaire are shown in the table below.
+
+![data-analysis-uat](https://cloud.githubusercontent.com/assets/4652284/14762705/90b0e3b6-09ab-11e6-8bee-d61c2853a3c7.png)
+
+The result are: 
+- 19.5% for the very agree answer (scale 5),
+- 53.9% for the agree answer (scale 4),
+- 18.9% for the neutral answer (scale 3),
+- 6.4% for the disagree answer  (scale 2), and
+- 1.3% for the very disagree answer (scale 1)
