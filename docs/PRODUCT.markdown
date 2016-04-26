@@ -56,3 +56,14 @@ The result are:
 - 18.9% for the neutral answer (scale 3),
 - 6.4% for the disagree answer  (scale 2), and
 - 1.3% for the very disagree answer (scale 1)
+
+After we combine the percentage, the result are shown in the table below.
+
+![data-result](https://cloud.githubusercontent.com/assets/4652284/14762717/e44b888c-09ab-11e6-8493-66d994cff855.png)
+
+The average percentages for all questions are
+- 74.15% for the good variable (scale 4 + scale 5),
+- 18.18% for the neutral variable (scale 3), and 
+- 7.67% for the not-good variable (scale 1 + scale 2)
+
+Based on the UAT result, with the successful percentage **74.15%**, it can be concluded that Arlin website has been acceptance by the user, in terms of **user interface**, **content**, **ease of use**, and **usability**. We have decided the minimum percentage target for this test, which was **70%**. However, despite the accomplishment has been obtained, Arlin website must still be developed.
